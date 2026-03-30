@@ -1,16 +1,90 @@
 # Augusto_Gabriel_Luna_Bardales
 Proyecto sobre mi perfil
-👨‍💻 Sobre mí
+# 🧑‍💻 Sistema de Gestión y Automatización de Procesos
 
-Desarrollador backend enfocado en Django y automatización de procesos.
-Actualmente construyendo soluciones para gestión de clientes y sistemas empresariales.
+Aplicación web desarrollada para la gestión de clientes, control de procesos y automatización de tareas internas en entornos empresariales, especialmente orientado a negocios con flujo de ventas y seguimiento de clientes.
 
-🚀 Tecnologías
-  Python
-  Django
-  PostgreSQL
-  APIs REST
-📌 Proyectos destacados
-  Sistema de gestión de clientes
-  Dashboard de pagos
-  Automatización de procesos
+---
+
+## 🚀 Descripción
+
+Este proyecto nace con el objetivo de centralizar la información de clientes, mejorar el control de procesos y reducir tareas manuales mediante automatización.
+
+Incluye funcionalidades clave como:
+- Gestión de clientes
+- Control de pagos y estados de deuda
+- Visualización de información en dashboards
+- Automatización de procesos repetitivos
+
+---
+
+## ⚙️ Tecnologías utilizadas
+
+- **Backend:** Python, Django, PHP, Laravel  
+- **Base de datos:** PostgreSQL / MySQL  
+- **Automatización:** MAKE (Integromat), scripts personalizados  
+- **Entorno:** Linux  
+- **Otros:** APIs REST, Git, GitHub  
+
+---
+
+## 🧩 Funcionalidades principales
+
+- 📌 Registro y gestión de clientes  
+- 💰 Control de pagos y seguimiento de deudas  
+- 📊 Dashboard con información relevante  
+- 🔄 Automatización de tareas (notificaciones, validaciones, procesos repetitivos)  
+- 🔐 Manejo básico de autenticación y permisos  
+
+---
+
+## 🤖 Automatización
+
+Se implementaron automatizaciones para mejorar la eficiencia operativa:
+
+- Envío automático de notificaciones  
+- Procesamiento de datos mediante integraciones  
+- Reducción de tareas manuales usando MAKE  
+
+---
+
+## 🧠 Enfoque
+
+Más allá del desarrollo técnico, este proyecto está enfocado en resolver problemas reales de negocio:
+
+- Optimizar procesos internos  
+- Mejorar la organización de la información  
+- Reducir errores humanos  
+- Aumentar la eficiencia operativa  
+
+---
+
+## 📸 Capturas (opcional)
+
+_Aquí puedes agregar imágenes del sistema_
+
+---
+
+## 🚧 Estado del proyecto
+
+En constante mejora y expansión de funcionalidades.
+
+---
+
+## 👨‍💻 Sobre mí
+
+Desarrollador backend enfocado en la construcción de sistemas web y automatización de procesos.
+
+Experiencia en:
+- Desarrollo con Django y Laravel  
+- Automatización de flujos de trabajo  
+- Implementación de soluciones orientadas a negocio  
+
+---
+
+## 📬 Contacto
+
+- LinkedIn: (agrega tu perfil)
+- Email: (opcional)
+
+---
