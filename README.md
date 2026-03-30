@@ -59,12 +59,6 @@ Más allá del desarrollo técnico, este proyecto está enfocado en resolver pro
 
 ---
 
-## 📸 Capturas (opcional)
-
-_Aquí puedes agregar imágenes del sistema_
-
----
-
 ## 🚧 Estado del proyecto
 
 En constante mejora y expansión de funcionalidades.
@@ -84,7 +78,7 @@ Experiencia en:
 
 ## 📬 Contacto
 
-- LinkedIn: (agrega tu perfil)
-- Email: (opcional)
+- LinkedIn: www.linkedin.com/in/augusto-gabriel-luna-bardales-724804109
+- Email: gabo.bardales15@gmail.com
 
 ---
